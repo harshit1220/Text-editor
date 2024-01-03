@@ -23,7 +23,7 @@
 
 
 .btn{
-    padding: 4px;
+    padding: 5px;
     border-radius: 10px;
     margin: 0px 5px 0px;
     border: none;
@@ -42,4 +42,8 @@
     transition-delay: 200ms;
     transition-timing-function: ease-in-out;
     font-family: c;
+}
+
+select{
+    padding: 3px;
 }
